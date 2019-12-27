@@ -1,0 +1,25 @@
+{
+    "shelters": [
+        {
+            "name": "Fransican Outreach",
+            "capacity": 257,
+            "address": "2715 W Harrison",
+            "city": "Chicago",
+            "zip_code": 60612
+        },
+        {
+            "name": "Joshua Ministries Shelter",
+            "capacity": 60,
+            "address": "200 S Sacremento Blvd, Suite 400",
+            "city": "Chicago",
+            "zip_code": 60612
+        },
+        {
+            "name": "The Boulevard",
+            "capacity": 64,
+            "address": "3465 W Franklin Blvd",
+            "city": "Chicago", 
+            "zip_code": 69624
+        }    
+    ]
+}

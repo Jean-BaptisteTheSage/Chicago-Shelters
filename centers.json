@@ -1,0 +1,40 @@
+{
+    "centers": [
+        {
+            "name": "Englewood Center",
+            "address": "1140 W 79th St",
+            "city": "Chicago",
+            "zip_code": "60621"
+        },
+        {
+            "name": "Garfield Center",
+            "address": "10 S Kedzie Ave",
+            "city": "Chicago",
+            "zip_code": "60612"
+        },
+        {
+            "name": "King Center",
+            "address": "4314 S Cottage Ave",
+            "city": "Chicago",
+            "zip_code": "60653"
+        },
+        {
+            "name": "North Area",
+            "address": "845 W Wilson",
+            "city": "Chicago",
+            "zip_code": "60640"
+        },
+        {
+            "name": "South Chicago",
+            "address": "8650 S Commercial Ave",
+            "city": "Chicago",
+            "zip_code": "60617"
+        },
+        {
+            "name": "Trina Davila",
+            "address": "4312 W North Ave",
+            "city": "Chicago",
+            "zip_code": "60639"
+        }
+    ]
+}
